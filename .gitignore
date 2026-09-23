@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+.venv/
+.langgraph_api/
+__pycache__/
+*.egg-info/
+node_modules/
+.next/
+*.tsbuildinfo
+.DS_Store
+.ruff_cache/
